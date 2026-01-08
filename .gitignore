@@ -1,0 +1,7 @@
+# Ignore database config
+config.php
+
+# Ignore practice files
+switchcase.php
+wap11.php
+index.php
